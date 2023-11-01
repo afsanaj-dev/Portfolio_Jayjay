@@ -1,0 +1,72 @@
+@media (min-width:320px) and (max-width:575.98px){
+    /* --------common--------- */
+    .container{
+        width: auto;
+    }
+    .common_heading h3 {
+        font-size: 30px;
+    }
+    .common_heading p {
+        font-size: 16px;
+    }
+    .navbar-logo {
+        font-size: 22px;
+        margin-right: 40px;
+    }
+
+    /* ---------banner-------- */
+    #banner {
+        padding-top: 70px;
+    }
+    .banner_left h2 {
+        font-size: 30px;
+    }
+    .banner_left h1 {
+    width: auto;
+	font-size: 36px;
+    }
+    .banner_left p {
+        margin-top: 15px;
+        width: auto;
+        font-size: 14px;
+    }
+    .btn_wrap a {
+        display: block;
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .banner_right {
+        margin-left: 0;
+    }
+    .portrait::after {
+        display: none;
+    }
+    /* -----------about me---------- */
+    #about_me {
+        margin-top: 35px;
+    }
+    .year h4 {
+        font-size: 80px;
+    }
+    .year p {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    /* ----project---- */
+    .project_btn a {
+        padding: 12px 15px;
+    }
+    /* ---contact---- */
+    .project_right ul {
+        text-align: center;
+        margin-top: 30px;
+    }
+    input, textarea {
+        width: auto;
+    }
+    .copyright_wrap{
+        gap: 15px;
+    }
+
+/* -------small device end--------- */
+}
